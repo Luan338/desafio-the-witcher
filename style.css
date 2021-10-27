@@ -141,7 +141,7 @@ button:hover{
     }
 
     .nome-logo{
-        margin-left: 20px;
+        display: none;
     }
     .box-mobile{
         width: 30%;
